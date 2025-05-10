@@ -1,0 +1,6 @@
+,origin,dest,date,wind_origin,wind_dest
+0,JFK,HNL,2013-01-09,3.5,
+1,JFK,CMH,2013-06-15,4.1,1.9
+2,EWR,ORD,2013-01-10,4.1,4.1
+3,JFK,SFO,2013-09-20,3.7,4.3
+4,JFK,CVG,2013-07-22,3.2,2.3
